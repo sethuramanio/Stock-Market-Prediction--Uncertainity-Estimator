@@ -1,1 +1,2 @@
-# Stock-Market-Prediction--Uncertainity-Estimator
+# Uncertainity_estimator_pytorch
+doing stock predictions with uncertainity range 
