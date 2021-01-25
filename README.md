@@ -1,2 +1,2 @@
 # Uncertainity_estimator_pytorch
-doing stock predictions with uncertainity range 
+Doing stock predictions with uncertainity range using Pytorch Library
